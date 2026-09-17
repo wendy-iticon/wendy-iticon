@@ -1,4 +1,3 @@
-# wendy-iticon
 # Hoi, ik ben Wendy 👋
 
 Ik werk als recruiter bij ITicon en kom graag in contact met ervaren IT-professionals.
